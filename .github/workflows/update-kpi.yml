@@ -1,0 +1,25 @@
+name: Update Country KPIs
+
+on:
+  schedule:
+    - cron: '0 3 */3 * *'  # 03:00 UTC cada 3 días
+  workflow_dispatch:       # botón manual
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+      - name: Ejecutar actualización
+        run: python update_kpi.py
+      - name: Commit & push
+        run: |
+          git config user.name "bot-tsme"
+          git config user.email "bot@tsme.local"
+          git add country_metrics.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "auto-update KPI $(date -u +%F)" && git push)
