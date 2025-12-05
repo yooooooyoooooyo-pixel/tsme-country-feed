@@ -3,7 +3,7 @@ import requests
 import json
 from datetime import datetime
 
-url = "https://raw.githubusercontent.com/owid/owid-datasets/master/datasets/World%20Development%20Indicators/World%20Development%20Indicators.csv"
+url = "url = "https://raw.githubusercontent.com/owid/owid-datasets/master/datasets/world-development-indicators/world_development_indicators.csv""
 df = pd.read_csv(url, usecols=['Entity', 'GDP per capita (constant 2015 US$)', 'Life expectancy (years)', 'CO₂ emissions (metric tons per capita)']).dropna()
 
 iso_map = requests.get("https://raw.githubusercontent.com/lukes/ISO-3166-Countries-with-Regional-Codes/master/all/all.json").json()
