@@ -25,11 +25,8 @@ for _, row in df.iterrows():
     np.random.seed(hash(iso) % 1000)
     padded = np.pad(vec, (0, 127 - len(vec)), 'constant')
     
-    # Corregido: evitar indexar si es 1D
-    if len(padded) > 1:
-        theta = np.abs(np.corrcoef(padded)[0, 1])
-    else:
-        theta = 0.5
+    # CORREGIDO: evitar indexar si es 1D
+    theta = 0.5 if len(padded) < 2 else np.abs(np.corrcoef(padded)[0, 1])
     
     omega = np.std(padded) + np.mean(np.abs(np.diff(padded)))
     M = float(np.clip(theta**2 / (omega + 1e-12), 0, 1))
