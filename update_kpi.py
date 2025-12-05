@@ -3,7 +3,7 @@ import requests
 import json
 from datetime import datetime
 
-# Dataset pequeño y permanente: CO₂ por país (OWID)
+# Dataset público y permanente: CO₂ por país (OWID)
 url = "https://raw.githubusercontent.com/owid/co2-data/master/owid-co2-data.csv"
 df = pd.read_csv(url, usecols=['country', 'co2_per_capita', 'population']).dropna()
 
@@ -24,7 +24,7 @@ for _, row in df.iterrows():
     import numpy as np
     np.random.seed(hash(iso) % 1000)
     padded = np.pad(vec, (0, 127 - len(vec)), 'constant')
-    theta = np.abs(np.corrcoef(padded)[0, 1]) if len(padded) > 1 else 0.5
+    theta = np.abs(np.corrcoef(padded)[0, 1]) if padded.shape[0] > 1 else 0.5
     omega = np.std(padded) + np.mean(np.abs(np.diff(padded)))
     M = float(np.clip(theta**2 / (omega + 1e-12), 0, 1))
     metrics[iso.lower()] = {"IE128D": M, "dominantDomain": "Ecológico" if M < 0.5 else "Económico"}
