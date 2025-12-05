@@ -1,0 +1,746 @@
+{
+  "afg": {
+    "IE128D": 2.2490256859054574e-07,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "alb": {
+    "IE128D": 3.4356631425520862e-06,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "dza": {
+    "IE128D": 2.04884669879509e-07,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "and": {
+    "IE128D": 0.00011703475041251245,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "ago": {
+    "IE128D": 2.531692370295274e-07,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "aia": {
+    "IE128D": 0.0006559585011637614,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "atg": {
+    "IE128D": 0.00010227541331012439,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "arg": {
+    "IE128D": 2.098980368025648e-07,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "arm": {
+    "IE128D": 3.22529918587479e-06,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "abw": {
+    "IE128D": 8.874861529151333e-05,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "aus": {
+    "IE128D": 3.5905586059953273e-07,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "aut": {
+    "IE128D": 1.0516092342058113e-06,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "aze": {
+    "IE128D": 9.279215967969237e-07,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "bhs": {
+    "IE128D": 2.3902262965057636e-05,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "bhr": {
+    "IE128D": 5.968383699271946e-06,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "bgd": {
+    "IE128D": 5.5262744815858146e-08,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "brb": {
+    "IE128D": 3.3955261099185684e-05,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "blr": {
+    "IE128D": 1.0590543482748297e-06,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "bel": {
+    "IE128D": 8.17082248447369e-07,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "blz": {
+    "IE128D": 2.2997039818172658e-05,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "ben": {
+    "IE128D": 6.631900568406196e-07,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "bmu": {
+    "IE128D": 0.000148339579473069,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "btn": {
+    "IE128D": 1.211771485771035e-05,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "bih": {
+    "IE128D": 3.031213113216399e-06,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "bwa": {
+    "IE128D": 3.8044355529067633e-06,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "bra": {
+    "IE128D": 4.524338524450191e-08,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "bgr": {
+    "IE128D": 1.4193517262069292e-06,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "bfa": {
+    "IE128D": 4.073048342097427e-07,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "bdi": {
+    "IE128D": 6.827788647376038e-07,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "khm": {
+    "IE128D": 5.437745549498539e-07,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "cmr": {
+    "IE128D": 3.293371700671639e-07,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "can": {
+    "IE128D": 2.413423952365287e-07,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "caf": {
+    "IE128D": 1.7993038332308284e-06,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "tcd": {
+    "IE128D": 4.7250952488947e-07,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "chl": {
+    "IE128D": 4.852842182349218e-07,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "chn": {
+    "IE128D": 6.75783055747166e-09,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "col": {
+    "IE128D": 1.8136118207725317e-07,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "com": {
+    "IE128D": 1.106759653825746e-05,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "cog": {
+    "IE128D": 1.514539691290137e-06,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "cok": {
+    "IE128D": 0.0006975904447916851,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "cri": {
+    "IE128D": 1.8697277093263962e-06,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "hrv": {
+    "IE128D": 2.475026924487769e-06,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "cub": {
+    "IE128D": 8.735632249993286e-07,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "cyp": {
+    "IE128D": 7.06149428144474e-06,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "cze": {
+    "IE128D": 8.934110486415436e-07,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "dnk": {
+    "IE128D": 1.6046284490434437e-06,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "dji": {
+    "IE128D": 8.206827834284191e-06,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "dma": {
+    "IE128D": 0.0001448307868727522,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "dom": {
+    "IE128D": 8.393335602089093e-07,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "ecu": {
+    "IE128D": 5.288822742978045e-07,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "egy": {
+    "IE128D": 8.230372654757438e-08,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "slv": {
+    "IE128D": 1.5132904383648952e-06,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "gnq": {
+    "IE128D": 5.06812033160824e-06,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "eri": {
+    "IE128D": 2.7128367626060714e-06,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "est": {
+    "IE128D": 7.049759585683403e-06,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "swz": {
+    "IE128D": 7.717500377587249e-06,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "eth": {
+    "IE128D": 7.26302396244511e-08,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "fro": {
+    "IE128D": 0.00017307638542251756,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "fji": {
+    "IE128D": 1.0326802401297876e-05,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "fin": {
+    "IE128D": 1.7074955417206884e-06,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "fra": {
+    "IE128D": 1.4412839018646336e-07,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "pyf": {
+    "IE128D": 3.403476727167462e-05,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "gab": {
+    "IE128D": 3.777751460722701e-06,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "gmb": {
+    "IE128D": 3.4751943108760757e-06,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "geo": {
+    "IE128D": 2.519004646668625e-06,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "deu": {
+    "IE128D": 1.1343914109539233e-07,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "gha": {
+    "IE128D": 2.7860157946618425e-07,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "grc": {
+    "IE128D": 9.545891388582489e-07,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "grl": {
+    "IE128D": 0.00017169716089319425,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "grd": {
+    "IE128D": 8.182663531806694e-05,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "gtm": {
+    "IE128D": 5.210986669321485e-07,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "gin": {
+    "IE128D": 6.500627866903967e-07,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "gnb": {
+    "IE128D": 4.357094157698527e-06,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "guy": {
+    "IE128D": 1.1540885880323784e-05,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "hti": {
+    "IE128D": 8.147362278532112e-07,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "hnd": {
+    "IE128D": 8.85996220307753e-07,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "hkg": {
+    "IE128D": 1.2935461180895614e-06,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "hun": {
+    "IE128D": 9.91256641077701e-07,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "isl": {
+    "IE128D": 2.438092206454055e-05,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "ind": {
+    "IE128D": 6.610583899991837e-09,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "idn": {
+    "IE128D": 3.3834007132390663e-08,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "irq": {
+    "IE128D": 2.083213088439623e-07,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "irl": {
+    "IE128D": 1.8252149370480155e-06,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "isr": {
+    "IE128D": 1.0217873534564073e-06,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "ita": {
+    "IE128D": 1.6162906861720644e-07,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "jam": {
+    "IE128D": 3.378273589802379e-06,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "jpn": {
+    "IE128D": 7.750543107013382e-08,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "jor": {
+    "IE128D": 8.302283695628032e-07,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "kaz": {
+    "IE128D": 4.657763170776059e-07,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "ken": {
+    "IE128D": 1.6996335339877984e-07,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "kir": {
+    "IE128D": 7.130140218311766e-05,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "kwt": {
+    "IE128D": 1.943767639247108e-06,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "kgz": {
+    "IE128D": 1.3347501020979377e-06,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "lva": {
+    "IE128D": 5.1240276880348444e-06,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "lbn": {
+    "IE128D": 1.6520144479145976e-06,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "lso": {
+    "IE128D": 4.103456069240107e-06,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "lbr": {
+    "IE128D": 1.7088637659404567e-06,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "lby": {
+    "IE128D": 1.2994846234852544e-06,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "lie": {
+    "IE128D": 0.00024042106591836234,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "ltu": {
+    "IE128D": 3.3547248090903356e-06,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "lux": {
+    "IE128D": 1.4251034985007704e-05,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "mac": {
+    "IE128D": 1.3316581778443547e-05,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "mdg": {
+    "IE128D": 3.000639682504767e-07,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "mwi": {
+    "IE128D": 4.4291873385521905e-07,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "mys": {
+    "IE128D": 2.6974582196889015e-07,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "mdv": {
+    "IE128D": 1.8172643319845896e-05,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "mli": {
+    "IE128D": 3.9183343507349546e-07,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "mlt": {
+    "IE128D": 1.7774877981484136e-05,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "mhl": {
+    "IE128D": 0.0002552863744983444,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "mrt": {
+    "IE128D": 1.8554430549837226e-06,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "mus": {
+    "IE128D": 7.545432548163018e-06,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "mex": {
+    "IE128D": 7.329557841630349e-08,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "mng": {
+    "IE128D": 2.7597245088996383e-06,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "mne": {
+    "IE128D": 1.5022431946157812e-05,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "msr": {
+    "IE128D": 0.002173223711193032,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "mar": {
+    "IE128D": 2.518707084280123e-07,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "moz": {
+    "IE128D": 2.7695764829877653e-07,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "mmr": {
+    "IE128D": 1.759911488487299e-07,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "nam": {
+    "IE128D": 3.1653897804684325e-06,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "nru": {
+    "IE128D": 0.0008014599461096751,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "npl": {
+    "IE128D": 3.234803307836025e-07,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "ncl": {
+    "IE128D": 3.277436495059637e-05,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "nzl": {
+    "IE128D": 1.8395934761860694e-06,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "nic": {
+    "IE128D": 1.3868340403611342e-06,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "ner": {
+    "IE128D": 3.548159508813801e-07,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "nga": {
+    "IE128D": 4.122208223341357e-08,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "niu": {
+    "IE128D": 0.005210918421177128,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "mkd": {
+    "IE128D": 5.261369416760901e-06,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "nor": {
+    "IE128D": 1.719943580744596e-06,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "omn": {
+    "IE128D": 1.8160482476305202e-06,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "pak": {
+    "IE128D": 3.8172343718194365e-08,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "plw": {
+    "IE128D": 0.0005413456139189445,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "pan": {
+    "IE128D": 2.1240996126902298e-06,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "png": {
+    "IE128D": 9.068713313929506e-07,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "pry": {
+    "IE128D": 1.384228960535462e-06,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "per": {
+    "IE128D": 2.803078740106767e-07,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "phl": {
+    "IE128D": 8.279721566984579e-08,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "pol": {
+    "IE128D": 2.4887726380232476e-07,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "prt": {
+    "IE128D": 9.200254457059966e-07,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "qat": {
+    "IE128D": 3.1463890078921337e-06,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "rou": {
+    "IE128D": 5.044167481298214e-07,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "rwa": {
+    "IE128D": 6.727796888500807e-07,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "kna": {
+    "IE128D": 0.00020465629660032652,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "lca": {
+    "IE128D": 5.336018126937772e-05,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "spm": {
+    "IE128D": 0.0016972570658103767,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "vct": {
+    "IE128D": 9.531504325452184e-05,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "wsm": {
+    "IE128D": 4.3991619737289223e-05,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "stp": {
+    "IE128D": 4.0720085799879364e-05,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "sau": {
+    "IE128D": 2.824133185168441e-07,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "sen": {
+    "IE128D": 5.184055233289491e-07,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "srb": {
+    "IE128D": 1.423875370245944e-06,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "syc": {
+    "IE128D": 7.353463164769264e-05,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "sle": {
+    "IE128D": 1.1098704661025748e-06,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "sgp": {
+    "IE128D": 1.6445297609151245e-06,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "sxm": {
+    "IE128D": 0.00022115270951048166,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "svk": {
+    "IE128D": 1.7417746993133637e-06,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "svn": {
+    "IE128D": 4.5271020970573845e-06,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "slb": {
+    "IE128D": 1.1708328660014187e-05,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "som": {
+    "IE128D": 5.045743875475819e-07,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "zaf": {
+    "IE128D": 1.4985087259585212e-07,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "ssd": {
+    "IE128D": 8.030815946606297e-07,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "esp": {
+    "IE128D": 2.001967462002407e-07,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "lka": {
+    "IE128D": 4.151538704370475e-07,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "sdn": {
+    "IE128D": 1.901234979789077e-07,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "sur": {
+    "IE128D": 1.5118165426928486e-05,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "swe": {
+    "IE128D": 9.042650455363367e-07,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "che": {
+    "IE128D": 1.0750454646037958e-06,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "tjk": {
+    "IE128D": 9.056365036046208e-07,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "tha": {
+    "IE128D": 1.3383283253523025e-07,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "tgo": {
+    "IE128D": 1.0080181665633167e-06,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "ton": {
+    "IE128D": 9.205643335553385e-05,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "tto": {
+    "IE128D": 6.361377354223621e-06,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "tun": {
+    "IE128D": 7.812537624941837e-07,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "tkm": {
+    "IE128D": 1.2798107364090032e-06,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "tca": {
+    "IE128D": 0.00020599341689497434,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "tuv": {
+    "IE128D": 0.0009919981287815395,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "uga": {
+    "IE128D": 1.9177277396247062e-07,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "ukr": {
+    "IE128D": 2.5334064526571363e-07,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "are": {
+    "IE128D": 8.698119855945082e-07,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "ury": {
+    "IE128D": 2.8322156260187096e-06,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "uzb": {
+    "IE128D": 2.637800455339377e-07,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "vut": {
+    "IE128D": 2.9261573697677732e-05,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "wlf": {
+    "IE128D": 0.000848599687500206,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "yem": {
+    "IE128D": 2.3634260297767473e-07,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "zmb": {
+    "IE128D": 4.499906103563346e-07,
+    "dominantDomain": "Ecol\u00f3gico"
+  },
+  "zwe": {
+    "IE128D": 5.766094588998719e-07,
+    "dominantDomain": "Ecol\u00f3gico"
+  }
+}
