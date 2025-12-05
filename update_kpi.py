@@ -24,7 +24,13 @@ for _, row in df.iterrows():
     import numpy as np
     np.random.seed(hash(iso) % 1000)
     padded = np.pad(vec, (0, 127 - len(vec)), 'constant')
-    theta = np.abs(np.corrcoef(padded)[0, 1]) if padded.shape[0] > 1 else 0.5
+    
+    # Corregido: evitar indexar si es 1D
+    if len(padded) > 1:
+        theta = np.abs(np.corrcoef(padded)[0, 1])
+    else:
+        theta = 0.5
+    
     omega = np.std(padded) + np.mean(np.abs(np.diff(padded)))
     M = float(np.clip(theta**2 / (omega + 1e-12), 0, 1))
     metrics[iso.lower()] = {"IE128D": M, "dominantDomain": "Ecológico" if M < 0.5 else "Económico"}
