@@ -3,9 +3,9 @@ import requests
 import json
 from datetime import datetime
 
-# Dataset pequeño, público y permanente: CO₂ por país (OWID)
+# Dataset pequeño y permanente: CO₂ por país (OWID)
 url = "https://raw.githubusercontent.com/owid/co2-data/master/owid-co2-data.csv"
-df = pd.read_csv(url, usecols=['country', 'co2_per_capita', 'population', 'gdp_per_capita']).dropna()
+df = pd.read_csv(url, usecols=['country', 'co2_per_capita', 'population']).dropna()
 
 # Mapa de países a ISO-3
 iso_map = requests.get("https://raw.githubusercontent.com/lukes/ISO-3166-Countries-with-Regional-Codes/master/all/all.json").json()
@@ -19,7 +19,6 @@ for _, row in df.iterrows():
     vec = [
         row['co2_per_capita'] or 0,
         row['population'] or 0,
-        row['gdp_per_capita'] or 0,
     ]
     # Padding a 127D con semilla determinística
     import numpy as np
